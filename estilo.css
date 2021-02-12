@@ -1,0 +1,35 @@
+p:hover {
+	color: blue;
+}
+.sss:hover {
+	color: blue;
+}
+[readonly=""]{
+	color: green;
+	text-align: center;
+}
+p b {
+	color: green;
+
+}
+header nav ul li a{
+	color: green;
+}
+.pa{
+	line-height: 1;
+	font-size: 15px;
+	background: blue;
+	width: 50vw;
+	height: 14vh;
+}
+.pa__sss{
+	font-family: cursive;
+	font-size: 4em;
+}
+#Carlos{color: rgba(250,100,50,0);}
+#Carlos:hover{color: #000000}
+/*h1 {
+	padding: 10px;
+	border: 11px;
+	margin: 110px;
+}*/
